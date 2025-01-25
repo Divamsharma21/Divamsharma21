@@ -3,15 +3,15 @@
 <h3 align="center">A passionate Mern developer from India and excited to learn new Technologies .</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Currency-converter-Chrome-extension**
+- 🔭 I’m currently working on **To build product... **
 
 - 🌱 I’m currently learning **Building Chrome extensions**
 
-- 💬 Ask me about **Java,c, Data Structure and Algorithms, Html, CSS, Javascript, Mern**
+- 💬 Ask me about **Java,c, Data Structure and Algorithms, HTML, CSS, Javascript, Mern**
 
 - 📫 How to reach me **divamsharma21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10uMVEQzbKeI-sJrtootJ6DWI1U02VqNw/view?usp=drive_link](https://drive.google.com/file/d/10uMVEQzbKeI-sJrtootJ6DWI1U02VqNw/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19-cUzQ2W59uzVMxkdZ8TCpz4naQguy9i/view]
 
 - ⚡ Fun fact **Keep fueling your Skills and Shine like a Sun.**
 
